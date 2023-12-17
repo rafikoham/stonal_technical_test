@@ -10,3 +10,5 @@
 ## Papers: 
 * ### Donut : 
 ![Alt text](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/model_doc/donut_architecture.jpg)
+* ### LayoutLMv3
+![Alt text](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/layoutlmv3_architecture.png)
