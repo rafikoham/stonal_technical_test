@@ -23,6 +23,7 @@
 ### Coding with Langchain : 
 * https://github.com/praj2408/Langchain-PDF-App-GUI
 * https://python.langchain.com/docs/modules/data_connection/document_loaders/pdf
+* https://python.langchain.com/docs/integrations/document_transformers/doctran_extract_properties
 ### Transformers : 
 * https://github.com/NielsRogge/Transformers-Tutorials
 
@@ -40,3 +41,7 @@ Fine tuning tuto:  https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-
 * ### LayoutXLM
 The base model introduced by Microsoft
 Tutorial : https://github.com/piegu/language-models/blob/master/Fine_tune_LayoutXLM_base_on_DocLayNet_base_in_any_language_at_linelevel_ml_384.ipynb
+
+
+
+LLM <> API <> Data 
