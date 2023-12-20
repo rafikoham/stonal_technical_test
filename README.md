@@ -26,6 +26,9 @@
 ### Transformers : 
 * https://github.com/NielsRogge/Transformers-Tutorials
 
+### Doc AI Butler:
+* https://github.com/butlerlabs/docai
+
 ## Models: 
 * ### Donut : 
 ![Alt text](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/model_doc/donut_architecture.jpg)
