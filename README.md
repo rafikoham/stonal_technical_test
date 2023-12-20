@@ -29,5 +29,7 @@
 ## Papers: 
 * ### Donut : 
 ![Alt text](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/model_doc/donut_architecture.jpg)
+
+Fine tuning tuto:  https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-model/
 * ### LayoutLMv3
 ![Alt text](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/layoutlmv3_architecture.png)
