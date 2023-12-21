@@ -26,3 +26,10 @@
 ![Alt text](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/model_doc/donut_architecture.jpg)
 * ### LayoutLMv3
 ![Alt text](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/layoutlmv3_architecture.png)
+* ### MP Don
+https://github.com/rubenpt91/MP-DocVQA-Framework/tree/master
+Longformer
+
+### Contest for robust reading
+https://rrc.cvc.uab.es/?ch=20&com=introduction
+https://arxiv.org/abs/2212.05935

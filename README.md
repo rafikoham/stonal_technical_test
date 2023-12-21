@@ -41,7 +41,3 @@ Fine tuning tuto:  https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-
 * ### LayoutXLM
 The base model introduced by Microsoft
 Tutorial : https://github.com/piegu/language-models/blob/master/Fine_tune_LayoutXLM_base_on_DocLayNet_base_in_any_language_at_linelevel_ml_384.ipynb
-
-
-
-LLM <> API <> Data 
